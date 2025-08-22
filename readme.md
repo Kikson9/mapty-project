@@ -56,7 +56,8 @@ A lot of effort went into keeping the architecture clean, modular, and easy to f
 
 ## Demo
 
-_(https://mapty-project-app.vercel.app/)_
+[Live Site](https://mapty-project-app.vercel.app)  
+[Project Repo](https://github.com/Kikson9/mapty-project)
 
 ---
 
